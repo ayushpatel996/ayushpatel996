@@ -1,7 +1,7 @@
 ![Untitled design](https://user-images.githubusercontent.com/55711453/101668621-c3c5bc80-3a76-11eb-8026-801382c6e49a.gif)
 
 # 💫 About Me:
-🔭 I’m currently working on ... Python<br>🌱 I’m currently learning ... Algorithms<br>👯 I’m looking to collaborate on ... AI<br>🤔 I’m looking for help with ... AI<br>💬 Ask me about ... C++/ Python<br>📫 How to reach me: ... LinkedIN ;)<br>😄 Pronouns: ... He/Him<br>⚡ Fun fact: ... I can get hit by an apple without creating my own maths (Newton!) -->
+🔭 I’m currently working on ... Java<br>🌱 I’m currently learning ... Algorithms<br>👯 I’m looking to collaborate on ... AI<br>🤔 I’m looking for help with ... AI<br>💬 Ask me about ... C++/ Python<br>📫 How to reach me: ... LinkedIN ;)<br>😄 Pronouns: ... He/Him<br>⚡ Fun fact: ... I can get hit by an apple without creating my own maths (Newton!) -->
 
 
 ## 🌐 Socials:
