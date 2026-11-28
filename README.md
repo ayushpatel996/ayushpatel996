@@ -2,7 +2,7 @@
 
 Software engineer building backend services and web applications. I work with Java and Spring Boot on APIs, event-driven services, and performance. My side projects use Python, Django, React, and TypeScript.
 
-[Portfolio source](https://github.com/ayushpatel996/portfolio) · [LinkedIn](https://www.linkedin.com/in/ayushpatel1312)
+[Portfolio](https://ayushpatel996.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/ayushpatel1312)
 
 ## Engineering work
 
