@@ -6,7 +6,7 @@ Software engineer building backend services and web applications. I work with Ja
 
 ## Engineering work
 
-- Helped migrate legacy financial advisory workflows to Java and Spring Boot microservices. Used Kafka for asynchronous communication and Redis caching to improve API response times by 25–30%.
+- Developed Java and Spring Boot microservices to modernize legacy financial advisory workflows. Used Kafka for asynchronous communication and Redis caching to improve API response times by 25–30%.
 - Built REST APIs and led UI development for admin workflows on an enterprise identity platform.
 
 ## Selected projects
